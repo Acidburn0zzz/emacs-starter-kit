@@ -2,5 +2,5 @@
       make-backup-file nil
       whitespace-style '(trailing empty tabs)
       )
-(setq show-trailing-whitespace t)
+(setq-default show-trailing-whitespace t)
 (setq require-final-newline 'query)
